@@ -2,6 +2,7 @@
 *.txt
 *.qpf
 *.qsf
+*.qws
 .vscode
 db
 incremental_db
